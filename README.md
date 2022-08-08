@@ -9,6 +9,7 @@ The result of the code is a table where every line represents a text, and every 
 
 The code is full of comments, but if you have any issues please contact me [eleanor.bennett@helsinki.fi](eleanor.bennett@helsinki.fi).
 
+## Licensing
 You are free to use, reuse, and remix this code, but please credit myself (Ellie Bennett) and Niek Veldhuis.
 
 [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
