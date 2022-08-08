@@ -11,4 +11,4 @@ The code is full of comments, but if you have any issues please contact me [elea
 
 You are free to use, reuse, and remix this code, but please credit myself (Ellie Bennett) and Niek Veldhuis.
 
-CC BY-SA 4.0
+[(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
